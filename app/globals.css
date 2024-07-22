@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  @media (max-width: 1024px) {
+    .carousel {
+      grid-row: 2 / 3;
+      grid-column: 1 / -1;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .carousel {
+      grid-row: initial;
+    }
+  }
+}

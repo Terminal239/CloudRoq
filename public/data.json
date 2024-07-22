@@ -1,0 +1,128 @@
+{
+  "stocks": [
+    {
+      "id": 1,
+      "name": "Apple Inc.",
+      "value": 145.3,
+      "change": 1.25
+    },
+    {
+      "id": 2,
+      "name": "Microsoft Corp.",
+      "value": 289.67,
+      "change": -2.14
+    },
+    {
+      "id": 3,
+      "name": "Amazon.com Inc.",
+      "value": 3554.0,
+      "change": 5.6
+    },
+    {
+      "id": 4,
+      "name": "Alphabet Inc.",
+      "value": 2740.72,
+      "change": -3.48
+    },
+    {
+      "id": 5,
+      "name": "Facebook Inc.",
+      "value": 355.64,
+      "change": 0.85
+    }
+  ],
+  "options": [
+    {
+      "id": 1,
+      "name": "Apple Inc.",
+      "value": 12.5,
+      "change": 0.4
+    },
+    {
+      "id": 2,
+      "name": "Microsoft Corp.",
+      "value": 8.3,
+      "change": -0.2
+    },
+    {
+      "id": 3,
+      "name": "Amazon.com Inc.",
+      "value": 25.0,
+      "change": 1.0
+    },
+    {
+      "id": 4,
+      "name": "Alphabet Inc.",
+      "value": 15.75,
+      "change": -0.75
+    },
+    {
+      "id": 5,
+      "name": "Facebook Inc.",
+      "value": 10.2,
+      "change": 0.3
+    }
+  ],
+  "chart": [
+    {
+      "int": 1,
+      "month": "January",
+      "value": 120.5
+    },
+    {
+      "int": 2,
+      "month": "February",
+      "value": 98.3
+    },
+    {
+      "int": 3,
+      "month": "March",
+      "value": 150.0
+    },
+    {
+      "int": 4,
+      "month": "April",
+      "value": 175.75
+    },
+    {
+      "int": 5,
+      "month": "May",
+      "value": 200.1
+    },
+    {
+      "int": 6,
+      "month": "June",
+      "value": 180.45
+    },
+    {
+      "int": 7,
+      "month": "July",
+      "value": 210.6
+    },
+    {
+      "int": 8,
+      "month": "August",
+      "value": 190.2
+    },
+    {
+      "int": 9,
+      "month": "September",
+      "value": 220.75
+    },
+    {
+      "int": 10,
+      "month": "October",
+      "value": 230.3
+    },
+    {
+      "int": 11,
+      "month": "November",
+      "value": 240.9
+    },
+    {
+      "int": 12,
+      "month": "December",
+      "value": 260.0
+    }
+  ]
+}
